@@ -1,7 +1,5 @@
 # Detergent Customer Segmentation
 
-This folder contains a cleaned, GitHub-ready unsupervised learning project for a premium dishwasher detergent pricing study. The main notebook is [`detergent_customer_segmentation.ipynb`](detergent_customer_segmentation.ipynb), which turns household-level price-response data into actionable customer segments.
-
 ## Project Summary
 
 The business question is whether the market should receive one broad pricing strategy or differentiated promotion strategies. The analysis finds four price-response segments and recommends a simple rule: **do not discount everyone**.
